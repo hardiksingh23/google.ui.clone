@@ -1,0 +1,25 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+div{
+  background-color: brown;
+img{
+  display: block;
+  width: 600px;}
+}
+input{
+  width:400px;
+  line-height: 25px;
+  padding: 10px 20px;
+  border:1px solid #dfe1e5;
+  border-radius:30px;
+  margin-bottom: 20px;
+}
+.container{
+  height:20vh;
+  display: flex;
+  flex-webkit-flex
+  
+}
